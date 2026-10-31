@@ -1,6 +1,6 @@
 # hermes-fleet-apps
 
-![The fleet at a glance: you, product, two approval gates, designer, coder, QA, media and docs, release, with Hermes as the coordinator](docs/img/fleet-workflow.jpg)
+![The fleet at a glance: you bring the idea, then Hermes the coordinator drives product, your first approval, designer, your second approval, coder, QA, media and docs, release](docs/img/fleet-workflow.jpg)
 
 *High-level picture only. The exact roles and rules are below.*
 
